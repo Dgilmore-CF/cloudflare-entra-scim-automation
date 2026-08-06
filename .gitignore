@@ -1,0 +1,9 @@
+# Local/customer-specific files
+customer*.json
+*state*.json
+*.log
+
+# PowerShell/editor noise
+*.ps1xml
+.vscode/
+.idea/
